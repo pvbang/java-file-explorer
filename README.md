@@ -1,6 +1,6 @@
-## Java File Explorer
+## File Explorer - Java
 
-<img src='FileExplorer.jpg'/>
+<img src='capture_screen_file_explorer.png'/>
 
 ## Dev: Phan Văn Bằng
 ###### Facebook: fb.com/it0902
